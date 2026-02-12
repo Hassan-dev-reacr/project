@@ -14,7 +14,7 @@ import { DateRange } from 'react-day-picker';
 import { ChevronLeft, ChevronRight, Search } from 'lucide-react';
 import { useDebounce } from '@/lib/hooks';
 
-const PRODUCTS_PER_PAGE = 10;
+const PRODUCTS_PER_PAGE = 12;
 
 function ProductsContent() {
   const router = useRouter();
