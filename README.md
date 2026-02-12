@@ -371,10 +371,7 @@ netlify deploy --prod --dir=.next
 ```
 
 **Live Demo:** 
-- Once you deploy, add your live URL here
-- Example: `https://ecomstore.vercel.app`
-
-For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md)
+-https://project-eqwazksd5-hassans-projects-55b38d59.vercel.app
 
 ## �🐛 Troubleshooting
 
