@@ -415,7 +415,7 @@ MIT
 
 ## 👨‍💻 Author
 
-Built as a frontend technical assessment demonstrating modern React, Next.js 15+, and TypeScript development practices.
+Hassan Raza Jamil
 
 ---
 
